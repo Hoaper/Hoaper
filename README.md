@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning: **Clouds**
 
 - 📫 How to reach me: **m.turbulyak@yahoo.com**
+- 
+- 💬 Ask me about **Python & TypeScript**
 
 <p align="left">
 </p>
